@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 690910976,
+              "duration": 104248414,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 915180,
+              "duration": 134388,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 3763376,
+              "duration": 1086336,
               "status": "passed"
             },
             "line": 7,
@@ -58,7 +58,7 @@
         "steps": [
           {
             "result": {
-              "duration": 59541,
+              "duration": 21490,
               "status": "passed"
             },
             "line": 10,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 121647,
+              "duration": 34639,
               "status": "passed"
             },
             "line": 11,
@@ -82,7 +82,7 @@
           },
           {
             "result": {
-              "duration": 104709,
+              "duration": 17640,
               "status": "passed"
             },
             "line": 12,
@@ -104,7 +104,7 @@
         "steps": [
           {
             "result": {
-              "duration": 80072,
+              "duration": 22452,
               "status": "passed"
             },
             "line": 15,
@@ -116,7 +116,7 @@
           },
           {
             "result": {
-              "duration": 188887,
+              "duration": 61903,
               "status": "passed"
             },
             "line": 16,
@@ -128,7 +128,7 @@
           },
           {
             "result": {
-              "duration": 63647,
+              "duration": 15075,
               "status": "passed"
             },
             "line": 17,
@@ -150,7 +150,7 @@
         "steps": [
           {
             "result": {
-              "duration": 75966,
+              "duration": 22451,
               "status": "passed"
             },
             "line": 20,
@@ -162,7 +162,7 @@
           },
           {
             "result": {
-              "duration": 9909914,
+              "duration": 2274986,
               "status": "passed"
             },
             "line": 21,
@@ -188,7 +188,7 @@
           },
           {
             "result": {
-              "duration": 2304118,
+              "duration": 2570704,
               "status": "passed"
             },
             "line": 22,
@@ -219,7 +219,7 @@
         "steps": [
           {
             "result": {
-              "duration": 107275,
+              "duration": 24055,
               "status": "passed"
             },
             "line": 20,
@@ -231,7 +231,7 @@
           },
           {
             "result": {
-              "duration": 188374,
+              "duration": 108409,
               "status": "passed"
             },
             "line": 21,
@@ -257,7 +257,7 @@
           },
           {
             "result": {
-              "duration": 131400,
+              "duration": 43941,
               "status": "passed"
             },
             "line": 22,
@@ -288,7 +288,7 @@
         "steps": [
           {
             "result": {
-              "duration": 72886,
+              "duration": 30150,
               "status": "passed"
             },
             "line": 20,
@@ -300,7 +300,7 @@
           },
           {
             "result": {
-              "duration": 255100,
+              "duration": 376545,
               "status": "passed"
             },
             "line": 21,
@@ -326,7 +326,7 @@
           },
           {
             "result": {
-              "duration": 163223,
+              "duration": 62543,
               "status": "passed"
             },
             "line": 22,
@@ -357,7 +357,7 @@
         "steps": [
           {
             "result": {
-              "duration": 79046,
+              "duration": 31112,
               "status": "passed"
             },
             "line": 20,
@@ -369,7 +369,7 @@
           },
           {
             "result": {
-              "duration": 760169,
+              "duration": 90128,
               "status": "passed"
             },
             "line": 21,
@@ -395,7 +395,7 @@
           },
           {
             "result": {
-              "duration": 123700,
+              "duration": 41695,
               "status": "passed"
             },
             "line": 22,
@@ -426,7 +426,7 @@
         "steps": [
           {
             "result": {
-              "duration": 122161,
+              "duration": 25659,
               "status": "passed"
             },
             "line": 31,
@@ -438,7 +438,7 @@
           },
           {
             "result": {
-              "duration": 2673166,
+              "duration": 1202121,
               "status": "passed"
             },
             "line": 32,
@@ -473,7 +473,7 @@
           },
           {
             "result": {
-              "duration": 59540,
+              "duration": 17320,
               "status": "passed"
             },
             "line": 36,
@@ -495,7 +495,7 @@
         "steps": [
           {
             "result": {
-              "duration": 104196,
+              "duration": 27263,
               "status": "passed"
             },
             "line": 39,
@@ -507,7 +507,7 @@
           },
           {
             "result": {
-              "duration": 266906,
+              "duration": 64789,
               "status": "passed"
             },
             "line": 40,
@@ -542,7 +542,7 @@
           },
           {
             "result": {
-              "duration": 53894,
+              "duration": 19565,
               "status": "passed"
             },
             "line": 44,
@@ -574,8 +574,9 @@
         "steps": [
           {
             "result": {
-              "duration": 44725392159,
-              "status": "passed"
+              "duration": 39366904,
+              "error_message": "java.lang.IllegalStateException: The driver executable does not exist: D:\\ChromeDriver\\chromedriver.exe\r\n\tat com.google.common.base.Preconditions.checkState(Preconditions.java:585)\r\n\tat org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)\r\n\tat org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)\r\n\tat org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:123)\r\n\tat com.StepDefinitions.SignInSteps.enter_the_URL_for_Amazon(SignInSteps.java:24)\r\n\tat ✽.Given Enter the URL for Amazon(SignIn.feature:5)\r\n",
+              "status": "failed"
             },
             "line": 5,
             "name": "Enter the URL for Amazon",
@@ -586,8 +587,7 @@
           },
           {
             "result": {
-              "duration": 5240224181,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 7,
             "name": "Click on SignIn button",
@@ -598,8 +598,7 @@
           },
           {
             "result": {
-              "duration": 2799707532,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 9,
             "name": "Enter username",
@@ -610,8 +609,7 @@
           },
           {
             "result": {
-              "duration": 527359668,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 10,
             "name": "Enter Password",
@@ -622,8 +620,7 @@
           },
           {
             "result": {
-              "duration": 7888383478,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 11,
             "name": "Click on Login button",
@@ -634,8 +631,7 @@
           },
           {
             "result": {
-              "duration": 2114135704,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 12,
             "name": "User should be on Home Page",

@@ -33,21 +33,21 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 690910976,
+  "duration": 104248414,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.i_give_Silent_and_Listen_to_anagram_checker()"
 });
 formatter.result({
-  "duration": 915180,
+  "duration": 134388,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be_true()"
 });
 formatter.result({
-  "duration": 3763376,
+  "duration": 1086336,
   "status": "passed"
 });
 formatter.scenario({
@@ -77,21 +77,21 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 59541,
+  "duration": 21490,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.i_give_Girish_and_Patil_to_anagram_checker()"
 });
 formatter.result({
-  "duration": 121647,
+  "duration": 34639,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be_false()"
 });
 formatter.result({
-  "duration": 104709,
+  "duration": 17640,
   "status": "passed"
 });
 formatter.scenario({
@@ -121,21 +121,21 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 80072,
+  "duration": 22452,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.i_give_Dirty_Room_and_Dormitory_to_anagram_checker()"
 });
 formatter.result({
-  "duration": 188887,
+  "duration": 61903,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be_true()"
 });
 formatter.result({
-  "duration": 63647,
+  "duration": 15075,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -249,7 +249,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 75966,
+  "duration": 22451,
   "status": "passed"
 });
 formatter.match({
@@ -266,7 +266,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_give_String1_and_String2_to_anagram_checker(String,String)"
 });
 formatter.result({
-  "duration": 9909914,
+  "duration": 2274986,
   "status": "passed"
 });
 formatter.match({
@@ -279,7 +279,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be(boolean)"
 });
 formatter.result({
-  "duration": 2304118,
+  "duration": 2570704,
   "status": "passed"
 });
 formatter.scenario({
@@ -316,7 +316,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 107275,
+  "duration": 24055,
   "status": "passed"
 });
 formatter.match({
@@ -333,7 +333,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_give_String1_and_String2_to_anagram_checker(String,String)"
 });
 formatter.result({
-  "duration": 188374,
+  "duration": 108409,
   "status": "passed"
 });
 formatter.match({
@@ -346,7 +346,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be(boolean)"
 });
 formatter.result({
-  "duration": 131400,
+  "duration": 43941,
   "status": "passed"
 });
 formatter.scenario({
@@ -383,7 +383,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 72886,
+  "duration": 30150,
   "status": "passed"
 });
 formatter.match({
@@ -400,7 +400,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_give_String1_and_String2_to_anagram_checker(String,String)"
 });
 formatter.result({
-  "duration": 255100,
+  "duration": 376545,
   "status": "passed"
 });
 formatter.match({
@@ -413,7 +413,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be(boolean)"
 });
 formatter.result({
-  "duration": 163223,
+  "duration": 62543,
   "status": "passed"
 });
 formatter.scenario({
@@ -450,7 +450,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 79046,
+  "duration": 31112,
   "status": "passed"
 });
 formatter.match({
@@ -467,7 +467,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_give_String1_and_String2_to_anagram_checker(String,String)"
 });
 formatter.result({
-  "duration": 760169,
+  "duration": 90128,
   "status": "passed"
 });
 formatter.match({
@@ -480,7 +480,7 @@ formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be(boolean)"
 });
 formatter.result({
-  "duration": 123700,
+  "duration": 41695,
   "status": "passed"
 });
 formatter.scenario({
@@ -533,21 +533,21 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 122161,
+  "duration": 25659,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.i_give_valid_data_to_anagram_checker(DataTable)"
 });
 formatter.result({
-  "duration": 2673166,
+  "duration": 1202121,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be_true()"
 });
 formatter.result({
-  "duration": 59540,
+  "duration": 17320,
   "status": "passed"
 });
 formatter.scenario({
@@ -600,21 +600,21 @@ formatter.match({
   "location": "AnagramCheckerSteps.i_have_anagram_checker()"
 });
 formatter.result({
-  "duration": 104196,
+  "duration": 27263,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.i_give_invalid_data_to_anagram_checker(DataTable)"
 });
 formatter.result({
-  "duration": 266906,
+  "duration": 64789,
   "status": "passed"
 });
 formatter.match({
   "location": "AnagramCheckerSteps.the_result_should_be_false()"
 });
 formatter.result({
-  "duration": 53894,
+  "duration": 19565,
   "status": "passed"
 });
 formatter.uri("SignIn.feature");
@@ -667,42 +667,38 @@ formatter.match({
   "location": "SignInSteps.enter_the_URL_for_Amazon()"
 });
 formatter.result({
-  "duration": 44725392159,
-  "status": "passed"
+  "duration": 39366904,
+  "error_message": "java.lang.IllegalStateException: The driver executable does not exist: D:\\ChromeDriver\\chromedriver.exe\r\n\tat com.google.common.base.Preconditions.checkState(Preconditions.java:585)\r\n\tat org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)\r\n\tat org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)\r\n\tat org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:123)\r\n\tat com.StepDefinitions.SignInSteps.enter_the_URL_for_Amazon(SignInSteps.java:24)\r\n\tat ✽.Given Enter the URL for Amazon(SignIn.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignInSteps.click_on_SignIn_button()"
 });
 formatter.result({
-  "duration": 5240224181,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignInSteps.enter_username()"
 });
 formatter.result({
-  "duration": 2799707532,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignInSteps.enter_Password()"
 });
 formatter.result({
-  "duration": 527359668,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignInSteps.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7888383478,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignInSteps.user_should_be_on_Home_Page()"
 });
 formatter.result({
-  "duration": 2114135704,
-  "status": "passed"
+  "status": "skipped"
 });
 });
