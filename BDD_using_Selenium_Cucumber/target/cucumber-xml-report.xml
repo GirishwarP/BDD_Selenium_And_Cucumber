@@ -1,79 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="0.152042">
-<testcase classname="String anagram checking" name="check whether the Silent and Listen are anagrams or not" time="0.105469">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="11" time="72.09881">
+<testcase classname="String anagram checking" name="check whether the Silent and Listen are anagrams or not" time="0.238298">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give Silent and Listen to anagram checker............................passed
 Then the result should be true..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="check whether the Girish and Patil are anagrams or not" time="0.000074">
+<testcase classname="String anagram checking" name="check whether the Girish and Patil are anagrams or not" time="0.000082">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give Girish and Patil to anagram checker.............................passed
 Then the result should be false.............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="check whether the Dirty Room and Dormitory are anagrams or not" time="0.000099">
+<testcase classname="String anagram checking" name="check whether the Dirty Room and Dormitory are anagrams or not" time="0.000106">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give Dirty Room and Dormitory to anagram checker.....................passed
 Then the result should be true..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline" time="0.004868">
+<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline" time="0.002305">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give "Act" and "Cat" to anagram checker..............................passed
 Then the result should be "true"............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 2" time="0.000176">
+<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 2" time="0.000147">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give "Girish" and "Yash" to anagram checker..........................passed
 Then the result should be "false"...........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 3" time="0.000469">
+<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 3" time="0.000118">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give "God" and "Dog" to anagram checker..............................passed
 Then the result should be "true"............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 4" time="0.000163">
+<testcase classname="String anagram checking" name="Check Anagram functionality using scenario outline 4" time="0.000117">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give "sink" and "skin" to anagram checker............................passed
 Then the result should be "true"............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using Data Table without header with valid data" time="0.001245">
+<testcase classname="String anagram checking" name="Check Anagram functionality using Data Table without header with valid data" time="0.000978">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give valid data to anagram checker...................................passed
 Then the result should be true..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="String anagram checking" name="Check Anagram functionality using Data Table without header with invalid data" time="0.000112">
+<testcase classname="String anagram checking" name="Check Anagram functionality using Data Table without header with invalid data" time="0.000088">
 <system-out><![CDATA[Given I have anagram checker................................................passed
 When i give invalid data to anagram checker.................................passed
 Then the result should be false.............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Amazon Login feature" name="Amazon Login Test scenario" time="0.039367">
-<failure message="java.lang.IllegalStateException: The driver executable does not exist: D:\ChromeDriver\chromedriver.exe&#13;&#10;&#9;at com.google.common.base.Preconditions.checkState(Preconditions.java:585)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)&#13;&#10;&#9;at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)&#13;&#10;&#9;at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)&#13;&#10;&#9;at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)&#13;&#10;&#9;at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:123)&#13;&#10;&#9;at com.StepDefinitions.SignInSteps.enter_the_URL_for_Amazon(SignInSteps.java:24)&#13;&#10;&#9;at ✽.Given Enter the URL for Amazon(SignIn.feature:5)&#13;&#10;"><![CDATA[Given Enter the URL for Amazon..............................................failed
-When Click on SignIn button.................................................skipped
-Then Enter username.........................................................skipped
-And Enter Password..........................................................skipped
-And Click on Login button...................................................skipped
-And User should be on Home Page.............................................skipped
-
-StackTrace:
-java.lang.IllegalStateException: The driver executable does not exist: D:\ChromeDriver\chromedriver.exe
-	at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
-	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)
-	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)
-	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
-	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
-	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)
-	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-	at com.StepDefinitions.SignInSteps.enter_the_URL_for_Amazon(SignInSteps.java:24)
-	at ✽.Given Enter the URL for Amazon(SignIn.feature:5)
-]]></failure>
+<testcase classname="YOU Portal Home Page feature" name="Verification of User name and Logo on Home page" time="42.169792">
+<system-out><![CDATA[Given Enter the URL of YOU portal...........................................passed
+When YOU home page open.....................................................passed
+Then the User name validation should be true................................passed
+And the YOU logo should be displayed........................................passed
+When we click on Infogram button............................................passed
+Then Infogram Page should open..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="YOU Portal Infogram Page feature" name="Verification of User name on Infogram page" time="29.686779">
+<system-out><![CDATA[When YOU home page open And we click on Infogram button.....................passed
+Then Infogram page should open And the user name validation should be true..passed
+]]></system-out>
 </testcase>
 </testsuite>
